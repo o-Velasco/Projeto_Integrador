@@ -1,0 +1,8 @@
+[console_scripts]
+control_services = ros_gz_crazyflie_control.control_services:main
+my_control_services = ros_gz_crazyflie_control.my_control_services:main
+my_control_services_mk2 = ros_gz_crazyflie_control.my_control_services_mk2:main
+my_control_services_mk3 = ros_gz_crazyflie_control.my_control_services_mk3:main
+my_control_services_mk4 = ros_gz_crazyflie_control.my_control_services_mk4:main
+my_control_services_mk5 = ros_gz_crazyflie_control.my_control_services_mk5:main
+

@@ -1,0 +1,3 @@
+[console_scripts]
+five_drones_individual_target_seeking = five_drones_individual_target_seeking.five_drones_individual_target_seeking:main
+

@@ -1,0 +1,3 @@
+[console_scripts]
+target_seeking = target_seeking.target_seeking:main
+

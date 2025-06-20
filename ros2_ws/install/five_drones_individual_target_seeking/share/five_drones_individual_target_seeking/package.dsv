@@ -1,0 +1,6 @@
+source;share/five_drones_individual_target_seeking/hook/pythonpath.ps1
+source;share/five_drones_individual_target_seeking/hook/pythonpath.dsv
+source;share/five_drones_individual_target_seeking/hook/pythonpath.sh
+source;share/five_drones_individual_target_seeking/hook/ament_prefix_path.ps1
+source;share/five_drones_individual_target_seeking/hook/ament_prefix_path.dsv
+source;share/five_drones_individual_target_seeking/hook/ament_prefix_path.sh

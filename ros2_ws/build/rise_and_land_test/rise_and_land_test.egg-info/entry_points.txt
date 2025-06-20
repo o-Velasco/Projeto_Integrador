@@ -1,0 +1,3 @@
+[console_scripts]
+rise_and_land_test = rise_and_land_test.rise_and_land_test:main
+
